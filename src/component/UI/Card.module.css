@@ -1,0 +1,6 @@
+.card {
+  padding: 1rem;
+  border-radius: 14px;
+  background-color: rgba(218, 230, 204, 0.849);
+  box-shadow: 0 2px 8px rgba(2, 32, 1, 0.25);
+}
